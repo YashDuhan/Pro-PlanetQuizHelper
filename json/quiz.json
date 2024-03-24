@@ -1,0 +1,47 @@
+[
+    {
+      "questionNumber": 1,
+      "questionTitle": "What is 2 + 3?",
+      "options": {
+        "a": "4",
+        "b": "5",
+        "c": "6",
+        "d": "7"
+      },
+      "correctAnswer": "b"
+    },
+    {
+      "questionNumber": 2,
+      "questionTitle": "What is 8 - 4?",
+      "options": {
+        "a": "2",
+        "b": "3",
+        "c": "4",
+        "d": "5"
+      },
+      "correctAnswer": "c"
+    },
+    {
+      "questionNumber": 3,
+      "questionTitle": "What is 6 × 2?",
+      "options": {
+        "a": "10",
+        "b": "12",
+        "c": "14",
+        "d": "16"
+      },
+      "correctAnswer": "b"
+    },
+    {
+      "questionNumber": 4,
+      "questionTitle": "What is 15 ÷ 3?",
+      "options": {
+        "a": "3",
+        "b": "4",
+        "c": "5",
+        "d": "6"
+      },
+      "correctAnswer": "c"
+    }
+  ]
+  
