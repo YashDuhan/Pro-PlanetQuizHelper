@@ -1,5 +1,6 @@
 [
     {
+      "type": "text",
       "questionNumber": 1,
       "questionTitle": "Which country has more lakes than the rest of the world combined?",
       "options": {
@@ -11,6 +12,7 @@
       "correctAnswer": "b"
     },
     {
+      "type": "text",
       "questionNumber": 2,
       "questionTitle": "What type of whale is the largest living creature on Earth?",
       "options": {
@@ -22,6 +24,7 @@
       "correctAnswer": "a"
     },
     {
+      "type": "text",
       "questionNumber": 3,
       "questionTitle": "What is the name of the highest uninterrupted waterfall in the world?",
       "options": {
@@ -33,6 +36,7 @@
       "correctAnswer": "d"
     },
     {
+      "type": "text",
       "questionNumber": 4,
       "questionTitle": "Can you name the world’s longest river?",
       "options": {
@@ -44,6 +48,7 @@
       "correctAnswer": "b"
     },
     {
+      "type": "text",
       "questionNumber": 5,
       "questionTitle": "The Grand Canyon in Arizona was carved by which river?",
       "options": {
@@ -55,6 +60,7 @@
       "correctAnswer": "a"
     },
     {
+      "type": "text",
       "questionNumber": 6,
       "questionTitle": "What is a group of lions called?",
       "options": {
@@ -66,6 +72,7 @@
       "correctAnswer": "c"
     },
     {
+      "type": "text",
       "questionNumber": 7,
       "questionTitle": "Which of the following is a mammal?",
       "options": {
@@ -77,6 +84,7 @@
       "correctAnswer": "d"
     },
     {
+      "type": "text",
       "questionNumber": 8,
       "questionTitle": "What is the largest ocean on Earth?",
       "options": {
@@ -86,6 +94,42 @@
         "d": "Pacific Ocean"
       },
       "correctAnswer": "d"
+    },
+    {
+      "type": "img",
+      "questionNumber": 1,
+      "questionTitle": "Which shape is square?",
+      "options": {
+        "a": "triangle-img",
+        "b": "circle-img",
+        "c": "square-img",
+        "d": "hexagon-img"
+      },
+      "correctAnswer": "c"
+    },
+    {
+      "type": "img",
+      "questionNumber": 2,
+      "questionTitle": "Which shape is a triangle?",
+      "options": {
+        "a": "square-img",
+        "b": "circle-img",
+        "c": "triangle-img",
+        "d": "hexagon-img"
+      },
+      "correctAnswer": "c"
+    },
+    {
+      "type": "img",
+      "questionNumber": 3,
+      "questionTitle": "Which shape is a circle?",
+      "options": {
+        "a": "square-img",
+        "b": "circle-img",
+        "c": "triangle-img",
+        "d": "hexagon-img"
+      },
+      "correctAnswer": "b"
     }
   ]
   
