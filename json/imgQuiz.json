@@ -1,0 +1,35 @@
+[
+    {
+        "questionNumber": 1,
+        "questionTitle": "Which shape is square?",
+        "options": {
+            "a": "triangle-img",
+            "b": "circle-img",
+            "c": "square-img",
+            "d": "hexagon-img"
+        },
+        "correctAnswer": "c"
+    },
+    {
+        "questionNumber": 2,
+        "questionTitle": "Which shape is a triangle?",
+        "options": {
+            "a": "square-img",
+            "b": "circle-img",
+            "c": "triangle-img",
+            "d": "hexagon-img"
+        },
+        "correctAnswer": "c"
+    },
+    {
+        "questionNumber": 3,
+        "questionTitle": "Which shape is a circle?",
+        "options": {
+            "a": "square-img",
+            "b": "circle-img",
+            "c": "triangle-img",
+            "d": "hexagon-img"
+        },
+        "correctAnswer": "b"
+    }
+]

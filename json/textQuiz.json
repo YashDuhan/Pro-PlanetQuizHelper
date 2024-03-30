@@ -1,0 +1,90 @@
+[
+  {
+    "questionNumber": 1,
+    "questionTitle": "Which country has more lakes than the rest of the world combined?",
+    "options": {
+      "a": "Costa Rica",
+      "b": "Canada",
+      "c": "Bahamas",
+      "d": "Switzerland"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "questionNumber": 2,
+    "questionTitle": "What type of whale is the largest living creature on Earth?",
+    "options": {
+      "a": "blue",
+      "b": "gray",
+      "c": "humpback",
+      "d": "sperm"
+    },
+    "correctAnswer": "a"
+  },
+  {
+    "questionNumber": 3,
+    "questionTitle": "What is the name of the highest uninterrupted waterfall in the world?",
+    "options": {
+      "a": "Niagara Falls",
+      "b": "Victoria falls",
+      "c": "Iguazu Falls",
+      "d": "Angel Falls"
+    },
+    "correctAnswer": "d"
+  },
+  {
+    "questionNumber": 4,
+    "questionTitle": "Can you name the world’s longest river?",
+    "options": {
+      "a": "Sepik River",
+      "b": "Nile River",
+      "c": "Ganga River",
+      "d": "Mississippi River"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "questionNumber": 5,
+    "questionTitle": "The Grand Canyon in Arizona was carved by which river?",
+    "options": {
+      "a": "Colorado River",
+      "b": "Gila River",
+      "c": "Virgin River",
+      "d": "Blue River"
+    },
+    "correctAnswer": "a"
+  },
+  {
+    "questionNumber": 6,
+    "questionTitle": "What is a group of lions called?",
+    "options": {
+      "a": "heard",
+      "b": "pack",
+      "c": "pride",
+      "d": "camp"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "questionNumber": 7,
+    "questionTitle": "Which of the following is a mammal?",
+    "options": {
+      "a": "Snake",
+      "b": "Turtle",
+      "c": "Crocodile",
+      "d": "Dolphin"
+    },
+    "correctAnswer": "d"
+  },
+  {
+    "questionNumber": 8,
+    "questionTitle": "What is the largest ocean on Earth?",
+    "options": {
+      "a": "Atlantic Ocean",
+      "b": "Arctic Ocean",
+      "c": "Indian Ocean",
+      "d": "Pacific Ocean"
+    },
+    "correctAnswer": "d"
+  }
+]
