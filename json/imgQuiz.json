@@ -12,24 +12,24 @@
     },
     {
         "questionNumber": 2,
-        "questionTitle": "Which shape is a triangle?",
+        "questionTitle": "Identify the animal known for its long neck and use of its spotted coat for camouflage.",
         "options": {
-            "a": "square-img",
-            "b": "circle-img",
-            "c": "triangle-img",
-            "d": "hexagon-img"
+            "a": "q2o1",
+            "b": "q2o2",
+            "c": "q2o3",
+            "d": "q2o4"
         },
-        "correctAnswer": "c"
+        "correctAnswer": "d"
     },
     {
         "questionNumber": 3,
-        "questionTitle": "Which shape is a circle?",
+        "questionTitle": "What symbol is often used to represent environmental protection and sustainability?",
         "options": {
-            "a": "square-img",
-            "b": "circle-img",
-            "c": "triangle-img",
-            "d": "hexagon-img"
+            "a": "q3o1",
+            "b": "q3o2",
+            "c": "q3o3",
+            "d": "q3o4"
         },
-        "correctAnswer": "b"
+        "correctAnswer": "a"
     }
 ]
