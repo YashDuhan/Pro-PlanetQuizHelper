@@ -1,12 +1,12 @@
 [
     {
         "questionNumber": 1,
-        "questionTitle": "Which shape is square?",
+        "questionTitle": "This renewable resource is captured by windmills and converted into clean energy. What is it?",
         "options": {
-            "a": "triangle-img",
-            "b": "circle-img",
-            "c": "square-img",
-            "d": "hexagon-img"
+            "a": "q1o1",
+            "b": "q1o2",
+            "c": "q1o3",
+            "d": "q1o4"
         },
         "correctAnswer": "c"
     },
